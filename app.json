@@ -28,7 +28,7 @@
       },
       "DB_URL": {
         "description": "Paste your mongo db url",
-        "value": ""
+        "value": "mongodb+srv://AniReal123:AniReal123@anireal123.wqnsp.mongodb.net/?retryWrites=true&w=majority&appName=AniReal123"
       },
       "DB_NAME":{
         "description": "Enter your DATABASE_NAME ",
