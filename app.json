@@ -54,12 +54,12 @@
       },
       "FORCE_SUB_CHANNEL": {
         "description": "Enter your channel id for forcesub 1",
-        "value": "0",
+        "value": "-1002456513359",
         "required": false
       },
       "FORCE_SUB_CHANNEL2": {
         "description": "Enter your channel id for forcesub 2 ",
-        "value": "0",
+        "value": "-1002409521763",
         "required": false
       },
       "BOT_STATS_TEXT": {
