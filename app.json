@@ -12,7 +12,7 @@
         "ADMINS" : {
             "description" : "Enter admins no need to add owner id, add with no commas and no hyphens",
             "value": "",
-            "required": False
+            "required": false
         },
       "TG_BOT_TOKEN": {
         "description": "Your Bot token, Get it from @Botfather",
