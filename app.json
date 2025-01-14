@@ -7,12 +7,12 @@
       "sharing"
     ],
     "repository": "https://github.com/Sachinanand99/File-Sharing-Telegram-bot/tree/main",
-    "logo": "https://ibb.co/FgPVtzw",
+    "logo": "https://envs.sh/vre.jpg",
     "env": {
         "ADMINS" : {
             "description" : "Enter admins no need to add owner id, add with no commas and no hyphens",
-            "value": "",
-            "required": false
+            "value": "22660802",
+            "required": 'True'
         },
       "TG_BOT_TOKEN": {
         "description": "Your Bot token, Get it from @Botfather",
@@ -20,11 +20,11 @@
       },
       "APP_ID":{
         "description": "your app id, take it from my.telegram.org",
-        "value": ""
+        "value": "7009167334"
       },
       "API_HASH":{
         "description": "your api hash, take it from my.telegram.org",
-        "value": ""
+        "value": "fec849af712bc23ab5f18277b1592d2e"
       },
       "DB_URL": {
         "description": "Paste your mongo db url",
