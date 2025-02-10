@@ -7,7 +7,7 @@
       "sharing"
     ],
     "repository": "https://github.com/Sachinanand99/File-Sharing-Telegram-bot/tree/main",
-    "logo": "https://envs.sh/vre.jpg",
+    "logo": "https://ibb.co/FgPVtzw",
     "env": {
         "ADMINS" : {
             "description" : "Enter admins no need to add owner id, add with no commas and no hyphens",
@@ -20,19 +20,19 @@
       },
       "APP_ID":{
         "description": "your app id, take it from my.telegram.org",
-        "value": "7009167334"
+        "value": ""
       },
       "API_HASH":{
         "description": "your api hash, take it from my.telegram.org",
-        "value": "fec849af712bc23ab5f18277b1592d2e"
+        "value": ""
       },
       "DB_URL": {
         "description": "Paste your mongo db url",
-        "value": "mongodb+srv://AniReal123:AniReal123@anireal123.wqnsp.mongodb.net/?retryWrites=true&w=majority&appName=AniReal123"
+        "value": ""
       },
       "DB_NAME":{
         "description": "Enter your DATABASE_NAME ",
-        "value": "AniReal123",
+        "value": "",
         "required":false
       },
       "CHANNEL_ID":{
@@ -41,11 +41,11 @@
       },
       "OWNER_ID": {
         "description": "enter owners id",
-        "value" : "22660802"
+        "value" : ""
       },
       "OWNER_TAG":{
         "description":"Enter owner's tag without @",
-        "value": "AniReal_Support"
+        "value": ""
       },
       "TIME": {
         "description":"Enter the time after which message gets deleted",
@@ -54,12 +54,12 @@
       },
       "FORCE_SUB_CHANNEL": {
         "description": "Enter your channel id for forcesub 1",
-        "value": "-1002456513359",
+        "value": "0",
         "required": false
       },
       "FORCE_SUB_CHANNEL2": {
         "description": "Enter your channel id for forcesub 2 ",
-        "value": "-1002409521763",
+        "value": "0",
         "required": false
       },
       "BOT_STATS_TEXT": {
